@@ -1,0 +1,11 @@
+So you've run into some trouble..
+
+Hope we can help!
+The room tab serves as a connection to the rest of the booking system.
+The calander displayed shows which rooms are booked, in pink,
+and which aren't, in white.
+
+The pink blocks are interactive and you can see the details corrosponding
+to the particular guest.
+
+Click on the arrows and switch through the months to see your other bookings.

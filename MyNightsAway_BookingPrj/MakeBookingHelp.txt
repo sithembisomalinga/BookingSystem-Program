@@ -1,0 +1,7 @@
+So you've run into some trouble..
+
+Hope we can help!
+To make a booking, click the "Make Booking" button.
+Instert the guest's details in the relevant fields.
+If by chance you enter the wrong data type or fields, don't worry
+onscreen prompts will assist you!

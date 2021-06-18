@@ -1,0 +1,6 @@
+So you've run into some trouble..
+
+Hope we can help!
+The excursion option allows for guests to book excursions through the hotel.
+Simply copy and paste the guest ID and fill in the other requirements.
+This will update the amount owed by the guests.

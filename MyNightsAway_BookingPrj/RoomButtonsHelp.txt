@@ -1,0 +1,10 @@
+So you've run into some trouble..
+
+Hope we can help!
+If you select a "Room" button, eg. 'Room 1', it will display all booking info
+for that month and that particular room. 
+If no guests are booked then the table will be blank. 
+If guests are booked, it will show their ID, full name, cell number and amount
+still owed.
+From this page you can select to book them excursions or delete a guest from
+the booking system.
